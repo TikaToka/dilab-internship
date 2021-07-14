@@ -14,8 +14,9 @@
 
 ### How to Run?
 1. Download Dataset and Model and put it into the same directory
-2. Run [`Dataset-Builder.ipynb`](https://github.com/vikas95/AIR-retriever)
-3. Use `hotpot_dev_distractor_made.json` to other QA models!
+2. Prepare requirement for AIR-retriever (check readme.md)
+3. Run [`Dataset-Builder.ipynb`](https://github.com/vikas95/AIR-retriever)
+4. Use `hotpot_dev_distractor_made.json` to other QA models!
 
 ***
 ## Papers
