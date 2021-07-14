@@ -18,7 +18,7 @@
 ### How to Run?
 1. Download Dataset and Model and put it into the same directory
 2. Prepare requirement for AIR-retriever. (Check readme.md)
-3. Change directory of Air-Retreiver files. Check [`readme.txt`](https://github.com/TikaToka/dilab-internship/blob/main/research-assistant/src/readme.txt)
+3. Change directory of Air-Retreiver files. Check [`readme.txt`](https://github.com/TikaToka/dilab-internship/blob/main/research-assistant/src/readme.txt) Input data name is '`hotpot_modded_train.json`' and '`hotpot_modded_dev`' as we first convert HotPotQA to MultiRC to fit into AIR-Retriever
 4. Run [`Dataset-Builder.ipynb`](https://github.com/vikas95/AIR-retriever)
 5. Use `hotpot_dev_distractor_made.json` to other QA models!
 
