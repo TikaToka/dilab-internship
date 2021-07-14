@@ -1,5 +1,5 @@
 # DILabIntern
- 2020.12~2021.03 Internship @ Yonsei Univ. DILab
+ 2020.12~2021.02 Internship @ Yonsei Univ. DILab
  
 ***
 ## Research Assistant
