@@ -8,6 +8,9 @@
 #### [HotpotQA](https://arxiv.org/abs/1809.09600): A Dataset for Diverse, Explainable Multi-hop Question Answering
 ##### [Download](https://hotpotqa.github.io/)
 
+#### [Glove](https://nlp.stanford.edu/projects/glove/): Stanford's GloVe 100d word embeddings
+##### [Download](https://www.kaggle.com/danielwillgeorge/glove6b100dtxt/download)
+
 ### Model
 #### [AIR-Retriever](https://arxiv.org/abs/2005.01218): Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering
 ##### [Download](https://github.com/vikas95/AIR-retriever)
